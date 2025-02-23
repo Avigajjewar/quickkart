@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+body {
+  scroll-behavior: smooth;
+  background-color: rgb(231, 233, 234);
+  /* font-family:  Rejouice Headline; 
+  font-weight: 100; */
+}
